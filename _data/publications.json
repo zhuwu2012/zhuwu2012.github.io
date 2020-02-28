@@ -1,0 +1,30 @@
+﻿[
+	{
+		"work_type": "Working paper",
+		"id": 1,
+		"title": "Innovation and Production Networks, Business Cycles, and Asset Pricing",
+		"year": 2019, 
+		"authors": [
+			{
+				"name": "Wu Zhu"
+			},
+			{
+				"name": "Yucheng Yang"
+			}
+		],
+		"abstract": "What are the fundamental driving forces for the slow recovery of the economy from recessions? And what are the fundamental risks shaping the cross-sectional asset prices? Can the current cross-sectional information help us understand the recovery of the recessions? In this work, we theoretically and empirically examine the macro and asset pricing implications of the interactions of cross-sectional shocks, innovation network, and production network. In theory, we present a model incorporating both production and innovation networks with recursive preference. We justify that the interactions of cross-sectional shocks, innovation network, and production network play a key role in the mechanism through which the initial shocks persist, amplify, and diffuse to the whole economy. We also empirically examine the importance of our channel and document a set of stylized facts of the U.S. Economy that traced back to 1919."
+	},	
+	{
+		"work_type": "Working paper",
+		"id": 2,
+		"title": "Innovation Networks, Linking Complexity, and Cross Predictability",
+		"year": 2019, 
+		"authors": [
+			{
+				"name": "Wu Zhu"
+			}
+		],
+		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512490",
+		"abstract": "In this paper, we provide evidence that network complexity limits investors’ ability to process non-local information. A long-short strategy based on non-local information yields a risk-adjusted monthly alpha of 198 (164) basis points with equal(value) weights. We further find that, (i) the magnitude of cross predictability increases with the degree of link complexity,(ii) institutional investors don't adjust their positions in a stock when the link environment becomes complex, but adjust immediately when the environment is simple, (iii) firms with more complex links receive more public attention, are much larger in size and exhibit less idiosyncratic volatility than those with simple links."
+	}
+]
