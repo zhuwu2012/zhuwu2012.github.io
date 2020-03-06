@@ -6,5 +6,45 @@
 		"meeting": "MFA",
 		"place": "Chicago",
 		"url": ""
-	}
+	},
+	{
+		"title": "Ownership Networks and Firm Growth: What Do Five Million Companies Tell About the Chinese Economy",
+		"type": "Invited talk",
+		"time": 2020-03-18,
+		"meeting": "MFA",
+		"place": "Chicago",
+		"url": ""
+	},
+	{
+		"title": "Internal Capital Market in Business Groups and the Propagation of Credit Supply Shocks",
+		"type": "Invited talk",
+		"time": 2020-03-27,
+		"meeting": "6th Annual Conference for Network Science",
+		"place": "U Chicago Booth",
+		"url": ""
+	},
+	{
+		"title": "Ownership Networks and Firm Growth: What Do Five Million Companies Tell About the Chinese Economy",
+		"type": "Invited talk",
+		"time": 2020-03-27,
+		"meeting": "6th Annual Conference for Network Science",
+		"place": "U Chicago Booth",
+		"url": ""
+	},
+	{
+		"title": "The Network Effects of Agency Conflicts",
+		"type": "Invited talk",
+		"time": 2020-03-27,
+		"meeting": "6th Annual Conference for Network Science",
+		"place": "U Chicago Booth",
+		"url": ""
+	},
+	{
+		"title": "Internal Capital Market in Business Groups and the Propagation of Credit Supply Shocks",
+		"type": "Invited talk",
+		"time": 2020-01-14,
+		"meeting": "AEA",
+		"place": "Sandiego",
+		"url": ""
+	},
 ]
