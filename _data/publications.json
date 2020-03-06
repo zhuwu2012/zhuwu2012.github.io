@@ -1,6 +1,6 @@
 [
 	{
-		"work_type": "Job Market Paper",
+		"work_type": "Working paper",
 		"id": 1,
 		"title": "Innovation and Production Networks, Business Cycles, and Asset Pricing",
 		"year": 2020, 
@@ -207,6 +207,5 @@ The presence of these agency conflicts counters the role of network structure in
 		],
 		"citation_url": " ",
 		"abstract": "Identifying the network effects in high dimensional networks has been a challenge. In this paper, we propose a new approach combing both the sparse and dense methods to attack this challenge. We further use this method to the identify the underlying linkage between stocks and take out-of-sample predictability. We find that our identified linkage can help us well predictability stock return. "
-	},
-
+	}
 ]
