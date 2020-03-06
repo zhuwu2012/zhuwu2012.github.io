@@ -1,9 +1,9 @@
-﻿[
+[
 	{
-		"work_type": "Working paper",
+		"work_type": "Job Market Paper",
 		"id": 1,
 		"title": "Innovation and Production Networks, Business Cycles, and Asset Pricing",
-		"year": 2019, 
+		"year": 2020, 
 		"authors": [
 			{
 				"name": "Wu Zhu"
@@ -13,12 +13,12 @@
 			}
 		],
 		"abstract": "What are the fundamental driving forces for the slow recovery of the economy from recessions? And what are the fundamental risks shaping the cross-sectional asset prices? Can the current cross-sectional information help us understand the recovery of the recessions? In this work, we theoretically and empirically examine the macro and asset pricing implications of the interactions of cross-sectional shocks, innovation network, and production network. In theory, we present a model incorporating both production and innovation networks with recursive preference. We justify that the interactions of cross-sectional shocks, innovation network, and production network play a key role in the mechanism through which the initial shocks persist, amplify, and diffuse to the whole economy. We also empirically examine the importance of our channel and document a set of stylized facts of the U.S. Economy that traced back to 1919."
-	},	
+	},
 	{
 		"work_type": "Working paper",
 		"id": 2,
 		"title": "Innovation Networks, Linking Complexity, and Cross Predictability",
-		"year": 2019, 
+		"year": 2020, 
 		"authors": [
 			{
 				"name": "Wu Zhu"
@@ -26,5 +26,187 @@
 		],
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512490",
 		"abstract": "In this paper, we provide evidence that network complexity limits investors’ ability to process non-local information. A long-short strategy based on non-local information yields a risk-adjusted monthly alpha of 198 (164) basis points with equal(value) weights. We further find that, (i) the magnitude of cross predictability increases with the degree of link complexity,(ii) institutional investors don't adjust their positions in a stock when the link environment becomes complex, but adjust immediately when the environment is simple, (iii) firms with more complex links receive more public attention, are much larger in size and exhibit less idiosyncratic volatility than those with simple links."
+	},
+	{
+		"work_type": "Working paper",
+		"id": 3,
+		"title": "Internal Capital Market in Business Group and the Propagation of Credit Supply Shocks",
+		"year": 2019, 
+		"authors": [
+			{
+				"name": "Yu Shi"
+			},
+			{
+				"name": "Robert Townsend"
+			},
+			{
+				"name": "Wu Zhu"
+			}
+		],
+		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3405978",
+		"abstract": "Using business registry data from China, we show that internal capital markets in business groups can propagate corporate shareholders' credit supply shocks to their subsidiaries. An average of 16.7% local bank credit growth where corporate shareholders are located would increase subsidiaries investment by 1% of their tangible fixed asset value, which accounts for 71% (7%) of the median (average) investment rate among these firms. We argue that equity exchanges is one channel through which corporate shareholders transmit bank credit supply shocks to the subsidiaries and provide empirical evidence to support the channel."
+	},
+	{
+		"work_type": "Working paper",
+		"id": 4,
+		"title": "The Network Effects of Agency Conflicts",
+		"year": 2019, 
+		"authors": [
+			{
+				"name": "the Network Effects of Agency Conflicts"
+			},
+			{
+				"name":"Yiqing Xing"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"status": "Submitted",
+		"abstract": "It is customary to focus on the network of interdependencies between firms to understand how and whether a shock to one firm will propagate to others. This paper argues that agency conflicts at the firm-level and not just the network structure, play a crucial role in amplifying or muting the propagation of exogenous shocks. If firms can take investment decisions in response to an exogenous shock, whether their choices amplify or mute the propagation of the shock will depend on the nature of the agency conflict. When agents in our model are subject to default costs or limited liability, they make investment choices that serve to mitigate the spread of an initial shock. In the face of interest conflicts or moral hazard, however, shocks are amplified by firm-level investment choices. 
+
+The presence of these agency conflicts counters the role of network structure in the propagation of shocks. For example, prior work argues that denser or more integrated networks facilitate the propagation of shocks. We show that in the presence of interest conflicts, this effect can be reversed. Under some conditions, the aggregate effect of an idiosyncratic shock via propagation does not diminish. This suggests a potentially important role that corporate governance plays in macro fluctuations."
+	},
+	{
+		"work_type": "Working paper",
+		"id": 5,
+		"title": "Ownership Networks and Firm Growth: What do Five Million Companies Tell About Chinese Economy",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Frankline Allen"
+			},
+			{
+				"name":"Junhui Cai"
+			},
+			{
+				"name":"Xian Gu"
+			},
+			{
+				"name":"QJ Jun Qian"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
+		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth."
+	},
+	{
+		"work_type": "Working in Progress",
+		"id": 6,
+		"title": "Innovation and Ownership Networks",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Frankline Allen"
+			},
+			{
+				"name":"Junhui Cai"
+			},
+			{
+				"name":"Xian Gu"
+			},
+			{
+				"name":"QJ Jun Qian"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": " ",
+		"abstract": " "
+	},
+	{
+		"work_type": "Working in Progress",
+		"id": 7,
+		"title": "Ownership Structure, Efficiency,and Externality in the Production Networks",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Frankline Allen"
+			},
+			{
+				"name":"Junhui Cai"
+			},
+			{
+				"name":"Xian Gu"
+			},
+			{
+				"name":"QJ Jun Qian"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": " ",
+		"abstract": " "
+	},
+	{
+		"work_type": "Working in Progress",
+		"id": 8,
+		"title": "Information Dispersion, Acquisition, and Cross-Predictability",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Wayne Gao"
+			},
+			{
+				"name":"Rakesh Vohra"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": " ",
+		"abstract": ""
+	},
+	{
+		"work_type": "Working in Progress",
+		"id": 9,
+		"title": "Identifying Underlying Linkage and Cross-Momentum ",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": " ",
+		"abstract": ""
+	},
+	{
+		"work_type": "Working in Progress",
+		"id": 10,
+		"title": "Identification of Network Effects - A Sparse and Dense Approach",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}
+		],
+		"citation_url": " ",
+		"abstract": "Identifying the network effects in high dimensional networks has been a challenge. In this paper, we propose a new approach combing both the sparse and dense methods to attack this challenge. We further use this method to the identify the underlying linkage between stocks and take out-of-sample predictability. We find that our identified linkage can help us well predictability stock return. "
 	}
+
 ]
