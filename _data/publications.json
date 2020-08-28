@@ -12,7 +12,7 @@
 				"name": "Yucheng Yang"
 			}
 		],
-		"abstract": "The speed at which the US economy has recovered from different recessions ranges from months to years. In this paper, we argue that the underlying network of knowledge flow on technology  and its interactions with production networks and cross-sectional shocks explains the large variations in the speed of recovery across recessions in US.\n
+		"abstract":"The speed at which the US economy has recovered from different recessions ranges from months to years. In this paper, we argue that the underlying network of knowledge flow on technology  and its interactions with production networks and cross-sectional shocks explains the large variations in the speed of recovery across recessions in US.\n
 
 Besides the production linkages, firms learn insights on production from each other through the innovation networks. In general, we show that these interactions allow us to decompose the effects of shocks, even idiosyncratic shocks, on future growth into components with various levels of persistence and loadings. The persistence can be fully captured by the eigenvalue distribution of the matrix representation for the innovation network, while the loadings can be fully captured by two sufficient statistics - the correlation between the centrality in innovation networks and shocks, and the correlation between centralities in innovation and production networks.\n
 
@@ -36,7 +36,7 @@ The slow recovery occurs when the loading on the persistent component increases 
 	{
 		"work_type": "Working paper",
 		"id": 3,
-		"title": "Internal Capital Market in Business Group and the Propagation of Credit Supply Shocks",
+		"title": "Tiered Intermediation in Business Group and the Targeted SME Support",
 		"year": 2019, 
 		"authors": [
 			{
@@ -194,24 +194,5 @@ The presence of these agency conflicts counters the role of network structure in
 		],
 		"citation_url": " ",
 		"abstract": ""
-	},
-	{
-		"work_type": "Working in Progress",
-		"id": 10,
-		"title": "Identification of Network Effects - A Sparse and Dense Approach",
-		"year": 2020, 
-		"authors": [
-			{
-				"name": "Junhui Cai"
-			},
-			{
-				"name":"Linda Zhao"
-			},
-			{
-				"name":"Wu Zhu"
-			}
-		],
-		"citation_url": " ",
-		"abstract": "Identifying the network effects in high dimensional networks has been a challenge. In this paper, we propose a new approach combing both the sparse and dense methods to attack this challenge. We further use this method to the identify the underlying linkage between stocks and take out-of-sample predictability. We find that our identified linkage can help us well predictability stock return. "
 	}
 ]
