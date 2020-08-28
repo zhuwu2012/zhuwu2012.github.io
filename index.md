@@ -16,7 +16,7 @@ permalink: /
 				Welcome to my homepage! 
 			</p>
 			<p class="text-justify">
-				I am a fourth-year Ph.D. in Economics, the University of Pennsylvania. My research area is Networks, Finance, Machine Learning, Macro, and the Chinese Economy. My current research includes the interactions between equity holding networks and corporate finance or governance, innovation networks and its role in asset pricing, and identifying underlying networks effects using Machine Learning.
+				I am a fifth-year Ph.D. in Economics, the University of Pennsylvania. My research area is Networks, Finance, Machine Learning, Macro, and the Chinese Economy. My current research includes the interactions between equity holding networks and corporate finance or governance, innovation networks and its role in asset pricing, and identifying underlying networks effects using Machine Learning.
 			</p>
 			<p class="text-justify">
 				Firms or agents are linked via various linkages which have significant impact on the asset pricing, investors’ behaviors, firm decision, and propagation of shocks and news. My current work includes - networks and asset pricing, machine learning and predictability incorporating insights from behaviors, macro and equity-holding networks etc. 
