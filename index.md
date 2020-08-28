@@ -19,10 +19,10 @@ permalink: /
 				I am a fifth-year Ph.D in Economics, the University of Pennsylvania. My current research spans several fields - Finance, Macro, Statistical Learning, Theory, and the Chinese Economy. 
 		</p>
 		<p class="text-justify">
-		These work are conducted under the common theme - use detailed micro data (usually super large data) to emphasize the role of networks in asset pricing, investors' behaviors, firm decision, business cycle and systemic risk, or use statistic learning to make prediction or recover underlying networks. 		
+		My work shares a common  theme - use detailed micro data (usually big data) to emphasize the role of networks in investors' behaviors, firm decision, asset pricing, business cycle and systemic risk. I am also statistical learning to recover the underlying networks or make prediction in portfolio management. 		
 		</p>
 			<p class="text-justify">
-		According to the theme, my current work can be divided into three branches. 1) Equity-holding network and its implication in corporate finance, governance, and macroeconomics; 2) Innovation network and its implication in asset pricing, business cycle, and investment; 3) Use statistical learning to make prediction or recover the underlying networks in networking world. 
+		Under this theme, my current work can be divided into three branches. i) Equity-holding network and its implication in corporate finance, governance, and macroeconomics; ii) Innovation network and its implication in asset pricing, business cycle, and investment; iii) Use statistical learning to make prediction or learn the underlying networks in a networking world. 
 			</p>
 		</div>
 	</div>
