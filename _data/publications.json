@@ -9,7 +9,7 @@
 				"name": "Wu Zhu"
 			},
 			{
-				"name": "Yucheng Yang"
+				"name":"Yucheng Yang"
 			}
 		],
 		"abstract":"The speed at which the US economy has recovered from different recessions ranges from months to years. In this paper, we argue that the underlying network of knowledge flow on technology  and its interactions with production networks and cross-sectional shocks explains the large variations in the speed of recovery across recessions in US.\n
@@ -36,7 +36,7 @@ The slow recovery occurs when the loading on the persistent component increases 
 	{
 		"work_type": "Working paper",
 		"id": 3,
-		"title": "Tiered Intermediation in Business Group and the Targeted SME Support",
+		"title": "Tiered Intermediation in Business Group and the Targeted SME Support(Under Review)",
 		"year": 2019, 
 		"authors": [
 			{
@@ -55,7 +55,7 @@ The slow recovery occurs when the loading on the persistent component increases 
 	{
 		"work_type": "Working paper",
 		"id": 4,
-		"title": "The Network Effects of Agency Conflicts",
+		"title": "The Network Effects of Agency Conflicts (Under Review)",
 		"year": 2019, 
 		"authors": [
 			{
@@ -102,7 +102,7 @@ The presence of these agency conflicts counters the role of network structure in
 		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth."
 	},
 	{
-		"work_type": "Working in Progress",
+		"work_type": "Working Paper",
 		"id": 6,
 		"title": "Innovation and Ownership Networks",
 		"year": 2020, 
@@ -127,7 +127,7 @@ The presence of these agency conflicts counters the role of network structure in
 			}
 		],
 		"citation_url": " ",
-		"abstract": " "
+		"abstract": "This paper examine the impact of ownership network on innovation"
 	},
 	{
 		"work_type": "Working in Progress",
