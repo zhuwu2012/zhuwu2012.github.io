@@ -16,7 +16,7 @@ permalink: /
 				Welcome to my homepage! 
 			</p>
 			<p class="text-justify">
-				I am a fifth-year Ph.D in Economics,the University of Pennsylvania.My current research interest spans several fields related to networks - Finance, Macro,Statistical Learning,Theory, and Chinese Economy.I am especially interested in using detailed micro data to tell a macro story. My current work mainly explores the interactions between the equity holding network and the corporate finance or governance, innovation network and its implications on asset pricing and business cycle, theory on the effect of agency conflicts on systemic risks, and identify underlying networks or prediction using Machine Learning.
+				I am a fifth-year Ph.D in Economics, the University of Pennsylvania.My current research spans several fields related to networks - Finance, Macro,Statistical Learning,Theory, and Chinese Economy.I am especially interested in using detailed micro data to tell a macro story. My current work mainly explores the interactions between the equity holding network and the corporate finance or governance, innovation network and its implications on asset pricing and business cycle, theory on the effect of agency conflicts, and identify underlying networks or prediction using Machine Learning.
 			</p>
 			<p class="text-justify">
 				Firms or agents are linked via various linkages which have significant impact on the asset pricing, investors’ behaviors, firm decision, and propagation of shocks and news. My current work includes - networks and asset pricing, machine learning and predictability incorporating insights from behaviors, macro and equity-holding networks etc. 
