@@ -26,7 +26,7 @@ nav_order: 2
 
 
 <div class="row" id="myItems">
-  {% assign types = "Working paper" | split: ", " %}
+  {% assign types = "Job market paper, Equity holding network, Innovation network, Machine learning" | split: ", " %}
   {% assign counter = 0 %}
   {% for type in types %}
   <div class="col-sm-12 mb-3">

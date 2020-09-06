@@ -1,6 +1,6 @@
 [
 	{
-		"work_type": "Working paper",
+		"work_type": "Job market paper",
 		"id": 1,
 		"title": "Innovation and Production Networks, Business Cycles, and Asset Pricing",
 		"year": 2020, 
@@ -15,7 +15,7 @@
 		"abstract":"The speed at which the US economy has recovered from different recessions ranges from months to years. In this paper, we argue that the underlying network of knowledge flow on technology  and its interactions with production networks and cross-sectional shocks explains the large variations in the speed of recovery across recessions in US.<br><br>Besides the production linkages, firms learn insights on production from each other through the innovation networks. In general, we show that these interactions allow us to decompose the effects of shocks, even idiosyncratic shocks, on future growth into components with various levels of persistence and loadings. The persistence can be fully captured by the eigenvalue distribution of the matrix representation for the innovation network, while the loadings can be fully captured by two sufficient statistics - the correlation between the centrality in innovation networks and shocks, and the correlation between centralities in innovation and production networks.<br><br>The slow recovery occurs when the loading on the persistent component increases sharply. We further document a set of new stylized facts in US and show the importance of our channel in explaining the slow recovery. Finally, we explore the explanations of our theory on puzzles in financial markets - time-varying equity-premium and risk-free rate puzzles."
 	},
 	{
-		"work_type": "Working paper",
+		"work_type": "Innovation network",
 		"id": 2,
 		"title": "Innovation Networks, Linking Complexity, and Cross Predictability",
 		"year": 2020, 
@@ -28,7 +28,7 @@
 		"abstract": "In this paper, we provide evidence that network complexity limits investors’ ability to process non-local information. A long-short strategy based on non-local information yields a risk-adjusted monthly alpha of 198 (164) basis points with equal(value) weights. We further find that, (i) the magnitude of cross predictability increases with the degree of link complexity,(ii) institutional investors don't adjust their positions in a stock when the link environment becomes complex, but adjust immediately when the environment is simple, (iii) firms with more complex links receive more public attention, are much larger in size and exhibit less idiosyncratic volatility than those with simple links."
 	},
 	{
-		"work_type": "Working paper",
+		"work_type": "Equity holding network",
 		"id": 3,
 		"title": "Tiered Intermediation in Business Group and the Targeted SME Support (Under Review)",
 		"year": 2019, 
@@ -47,7 +47,7 @@
 		"abstract": "Using business registry data from China, we show that internal capital markets in business groups can propagate corporate shareholders' credit supply shocks to their subsidiaries. An average of 16.7% local bank credit growth where corporate shareholders are located would increase subsidiaries investment by 1% of their tangible fixed asset value, which accounts for 71% (7%) of the median (average) investment rate among these firms. We argue that equity exchanges is one channel through which corporate shareholders transmit bank credit supply shocks to the subsidiaries and provide empirical evidence to support the channel."
 	},
 	{
-		"work_type": "Working paper",
+		"work_type": "Equity holding network",
 		"id": 4,
 		"title": "The Network Effects of Agency Conflicts (Under Review)",
 		"year": 2019, 
@@ -63,12 +63,10 @@
 			}
 		],
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556298",
-		"abstract": "It is customary to focus on the network of interdependencies between firms to understand how and whether a shock to one firm will propagate to others. This paper argues that agency conflicts at the firm-level and not just the network structure, play a crucial role in amplifying or muting the propagation of exogenous shocks. If firms can take investment decisions in response to an exogenous shock, whether their choices amplify or mute the propagation of the shock will depend on the nature of the agency conflict. When agents in our model are subject to default costs or limited liability, they make investment choices that serve to mitigate the spread of an initial shock. In the face of interest conflicts or moral hazard, however, shocks are amplified by firm-level investment choices. 
-
-The presence of these agency conflicts counters the role of network structure in the propagation of shocks. For example, prior work argues that denser or more integrated networks facilitate the propagation of shocks. We show that in the presence of interest conflicts, this effect can be reversed. Under some conditions, the aggregate effect of an idiosyncratic shock via propagation does not diminish. This suggests a potentially important role that corporate governance plays in macro fluctuations."
+		"abstract": "It is customary to focus on the network of interdependencies between firms to understand how and whether a shock to one firm will propagate to others. This paper argues that agency conflicts at the firm-level and not just the network structure, play a crucial role in amplifying or muting the propagation of exogenous shocks. If firms can take investment decisions in response to an exogenous shock, whether their choices amplify or mute the propagation of the shock will depend on the nature of the agency conflict. When agents in our model are subject to default costs or limited liability, they make investment choices that serve to mitigate the spread of an initial shock. In the face of interest conflicts or moral hazard, however, shocks are amplified by firm-level investment choices. <br><br>The presence of these agency conflicts counters the role of network structure in the propagation of shocks. For example, prior work argues that denser or more integrated networks facilitate the propagation of shocks. We show that in the presence of interest conflicts, this effect can be reversed. Under some conditions, the aggregate effect of an idiosyncratic shock via propagation does not diminish. This suggests a potentially important role that corporate governance plays in macro fluctuations."
 	},
 	{
-		"work_type": "Working paper",
+		"work_type": "Equity holding network",
 		"id": 5,
 		"title": "Ownership Networks and Firm Growth: What do Five Million Companies Tell About Chinese Economy",
 		"year": 2019, 
@@ -96,7 +94,7 @@ The presence of these agency conflicts counters the role of network structure in
 		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth."
 	},
 	{
-		"work_type": "Working Paper",
+		"work_type": "Innovation network",
 		"id": 6,
 		"title": "Innovation and Ownership Networks",
 		"year": 2020, 
@@ -124,14 +122,11 @@ The presence of these agency conflicts counters the role of network structure in
 		"abstract": "This paper examine the impact of ownership network on innovation"
 	},
 	{
-		"work_type": "Working in Progress",
+		"work_type": "Equity holding network",
 		"id": 7,
 		"title": "Government Ownership in China, and Externalities in the Production Networks",
 		"year": 2020, 
 		"authors": [
-			{
-				"name": " "
-			},
 			{
 				"name":"Junhui Cai"
 			},
@@ -152,7 +147,7 @@ The presence of these agency conflicts counters the role of network structure in
 		"abstract": " "
 	},
 	{
-		"work_type": "Working in Progress",
+		"work_type": "Machine learning",
 		"id": 8,
 		"title": "Information Dispersion, Acquisition, and Cross-Predictability",
 		"year": 2020, 
@@ -171,7 +166,7 @@ The presence of these agency conflicts counters the role of network structure in
 		"abstract": ""
 	},
 	{
-		"work_type": "Working paper",
+		"work_type": "Machine learning",
 		"id": 9,
 		"title": "Identifying Underlying Linkage and Cross-Momentum",
 		"year": 2020, 
