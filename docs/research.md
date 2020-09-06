@@ -33,7 +33,7 @@ nav_order: 2
     <span id="{{ type | join: '_' }}"></span>
     <h2 style="display:inline;"> {{ type }}s </h2>
     <h5 style="text-align:right;float:right;"><a href="#top">[ Top ]</a></h5> 
-    {% assign sorted_publications_year = site.data.publications | where:"work_type",type | sort: 'year' | reverse | group_by: 'year' %}
+    {% assign sorted_publications_year = site.data.publications | where:"work_type",type | sort: 'id' | group_by: 'year' %}
     {% for paper_year in sorted_publications_year %}
     {% assign papers = paper_year.items | sort: 'order' %}
     {% for paper in papers %}
