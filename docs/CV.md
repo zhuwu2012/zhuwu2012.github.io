@@ -8,7 +8,7 @@ nav_order: 5
  '/assets/others/CV.pdf' | prepend: site.baseurl }}">Download</a>
 {: .no_toc }
 
-<!-- <div class="container">
+<div class="container">
 	<div class="row">
 		<div class="col">
 <object data="{{
@@ -16,4 +16,4 @@ nav_order: 5
 </object>
 </div>
 </div>
-</div> -->
+</div>
