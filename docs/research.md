@@ -60,6 +60,9 @@ nav_order: 2
         <h5 class="card-text"> 
           {{ paper.source }}
         </h5>
+        <h5 class="card-subtitle mb-2 pb-1" id="category"> 
+          {{ paper.status }}
+        </h5>
         <h5 class="card-subtitle mb-2 pb-1" id="category" style="display: none;"> 
           Categories: 
           {% for topic in paper.topic %}
