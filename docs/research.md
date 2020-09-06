@@ -87,8 +87,9 @@ nav_order: 2
         </h5>
         <div class="collapse" id="collapseAbstract{{ paper.id }}">
           <div class="container">
-            <hr/>
+            <p style="text-align:justify">
             {{ paper.abstract }}
+            </p>
           </div>
         </div>
         <div class="collapse" id="collapseDescription{{ paper.id }}">
