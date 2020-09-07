@@ -16,7 +16,7 @@ permalink: /
 				Welcome to my homepage! 
 			</p>
 			<p class="text-justify">
-				I am a fifth-year Ph.D in Economics and a master in statistics, the University of Pennsylvania. My current research spans several fields-<b>Macro, Finance, Machine Learning, Theory, and the Chinese Economy</b>. 
+				I am a fifth-year Ph.D in Economics and a master in statistics, the University of Pennsylvania. My current research spans several fields - <b>Macro, Finance, Machine Learning, Theory, and the Chinese Economy</b>. 
 		</p>
 		<p class="text-justify">
 		My work shares a common theme - use big data (firm-level) to emphasize the role of networks in investors' behaviors, firm decision, asset pricing, business cycle, and systemic risk. I also employ machine learning to recover the hidden networks or make prediction in portfolio management. 		
