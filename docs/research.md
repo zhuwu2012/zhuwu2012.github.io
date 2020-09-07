@@ -31,9 +31,9 @@ nav_order: 2
   {% for type in types %}
   <div class="col-sm-12 mb-3">
     <span id="{{ type | join: '_' }}"></span>
-    <h2 style="display:inline;"> {{ type }}s </h2>
+    <h2 style="display:inline;"> {{ type }} </h2>
     <h5 style="text-align:right;float:right;"><a href="#top">[ Top ]</a></h5> 
-    {% assign sorted_publications_year = site.data.publications | where:"work_type",type | sort: 'year' | reverse | group_by: 'year' %}
+    {% assign sorted_publications_year = site.data.publications | where:"work_type",type | sort: 'id' | group_by: 'year' %}
     {% for paper_year in sorted_publications_year %}
     {% assign papers = paper_year.items | sort: 'order' %}
     {% for paper in papers %}
@@ -59,6 +59,9 @@ nav_order: 2
         </h5>
         <h5 class="card-text"> 
           {{ paper.source }}
+        </h5>
+        <h5 class="card-subtitle mb-2 pb-1" id="category"> 
+          {{ paper.status }}
         </h5>
         <h5 class="card-subtitle mb-2 pb-1" id="category" style="display: none;"> 
           Categories: 
