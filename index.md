@@ -19,11 +19,10 @@ permalink: /
 				I am a fifth-year Ph.D in Economics and a master in statistics, the University of Pennsylvania. My current research spans several fields - <b>Macro, Finance, Machine Learning, Theory, and the Chinese Economy</b>. 
 		</p>
 		<p class="text-justify">
-		My work shares a common theme - use big data (firm-level) to emphasize the role of networks in investors' behaviors, firm decision, asset pricing, business cycle, and systemic risk. I also employ machine learning to recover the hidden networks or make prediction in portfolio management. 		
+		My work shares a common theme - use big data (firm-level) to emphasize the role of networks in investors' behaviors, firm decision, asset pricing, business cycle, and systemic risk. I also employ machine learning to recover the hidden networks.		
 		</p>
 			<p class="text-justify">
-		Under this theme, my work can be divided into three branches: <br> <b> i)</b> Equity-holding network and its implication on corporate finance, governance, and monetary policy; <br> <b>ii)</b> Innovation network and its implication on business cycle, asset pricing, and investment;<br> <b>iii)</b> Use machine learning to learn hidden networks especially incorporating behavior bias. 
-			</p>
+		Under this theme, my work can be divided into three branches: <br> <b> i)</b> Equity-holding network and its implication on corporate finance, governance, and monetary policy; <br> <b>ii)</b> Innovation network and its implication on business cycle, asset pricing, and investment;<br> <b>iii)</b> Machine learning in network			</p>
 		</div>
 	</div>
 </div>
