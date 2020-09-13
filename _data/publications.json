@@ -102,8 +102,9 @@
 		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth.",
 		"talks":[{"time":"2021-01-06","meeting":"AFA 2021","place":"Chicago"},
 				{"time":"2020-12-06","meeting":"NBER Chinese Economy Meeting","place":"Virtual"},
-				{"time":"2020-08-06","meeting":"MFA 2020","place":"Chicago"},{"time":"2020-10-06","meeting":"FMA 2020","place":"New York"},
-				{"time":"2020-03-21","meeting":"NSF 6th Annual Conference for Network Science","place":"Chicago"}]
+				{"time":"2020-08-06","meeting":"MFA 2020","place":"Chicago"},{"time":"2020-10-06","meeting":"FMA 	2020","place":"New York"},
+				{"time":"2020-03-21","meeting":"NSF 6th Annual Conference for Network Science","place":"Chicago"}],
+       		"slides":"/assets/others/ownership-growth-china.pdf"
 	},
 	{
 		"work_type": "Innovation network",
