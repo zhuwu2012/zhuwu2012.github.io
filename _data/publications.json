@@ -46,7 +46,8 @@
 		],
 		"status": "Under review. Finalist of best Ph.D. paper (MFA).",
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3405978",
-		"abstract": "Using business registry data from China, we show that internal capital markets in business groups can play the role of financial intermediary and propagate corporate share- holders’ credit supply shocks to their subsidiaries. An average of 16.7% local bank credit growth where corporate shareholders are located would increase subsidiaries investment by 1% of their tangible fixed asset value, which accounts for 71% (7%) of the median (average) investment rate among these firms. We argue that equity exchanges is one channel through which corporate shareholders transmit bank credit supply shocks to the subsidiaries and provide evidence to support the channel."
+		"abstract": "Using business registry data from China, we show that internal capital markets in business groups can play the role of financial intermediary and propagate corporate share- holders’ credit supply shocks to their subsidiaries. An average of 16.7% local bank credit growth where corporate shareholders are located would increase subsidiaries investment by 1% of their tangible fixed asset value, which accounts for 71% (7%) of the median (average) investment rate among these firms. We argue that equity exchanges is one channel through which corporate shareholders transmit bank credit supply shocks to the subsidiaries and provide evidence to support the channel.",
+		"talks":[{"time":"2020-08-06","meeting":"MFA 2020","place":"Chicago"}]
 	},
 	{
 		"work_type": "Equity holding network",
