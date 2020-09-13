@@ -60,7 +60,7 @@ nav_order: 2
         <h5 class="card-text"> 
           {{ paper.source }}
         </h5>
-        <h5 class="card-subtitle mb-2 pb-1" id="category"> 
+        <h5 class="card-subtitle mb-2 pb-1" id="status"> 
           {{ paper.status }}
         </h5>
         <h5 class="card-subtitle mb-2 pb-1" id="category" style="display: none;"> 
@@ -70,6 +70,15 @@ nav_order: 2
               {{ topic.topic }},
             {% else %} 
               {{ topic.topic }}
+            {% endif %}
+          {% endfor %}
+        </h5>
+        <h5 class="card-subtitle mb-2 pb-1" id="talk" style="font-style: italic;"> 
+          {% for talk in paper.talks %}
+            {% if forloop.index < paper.talks.size %} 
+              {{ talk.meeting }},
+            {% else %} 
+              {{ talk.meeting }}
             {% endif %}
           {% endfor %}
         </h5>
@@ -85,6 +94,11 @@ nav_order: 2
           {% if paper.journal_url %}
             [<a href="{{ paper.journal_url }}">
               Published version
+            </a>]
+          {% endif %}
+          {% if paper.slides %}
+            [<a href="{{ paper.slides }}">
+              Slides
             </a>]
           {% endif %}
         </h5>
