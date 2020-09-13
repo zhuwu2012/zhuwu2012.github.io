@@ -71,6 +71,7 @@
 		"status": "Under review",
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556298",
 		"abstract": "It is customary to focus on the network of interdependencies between firms to understand how and whether a shock to one firm will propagate to others. This paper argues that agency conflicts at the firm-level and not just the network structure, play a crucial role in amplifying or muting the propagation of exogenous shocks. If firms can take investment decisions in response to an exogenous shock, whether their choices amplify or mute the propagation of the shock will depend on the nature of the agency conflict. When agents in our model are subject to default costs or limited liability, they make investment choices that serve to mitigate the spread of an initial shock. In the face of interest conflicts or moral hazard, however, shocks are amplified by firm-level investment choices. <br><br>The presence of these agency conflicts counters the role of network structure in the propagation of shocks. For example, prior work argues that denser or more integrated networks facilitate the propagation of shocks. We show that in the presence of interest conflicts, this effect can be reversed. Under some conditions, the aggregate effect of an idiosyncratic shock via propagation does not diminish. This suggests a potentially important role that corporate governance plays in macro fluctuations.",
+	"talks":[{"time":"2020-03-27","meeting":"NSF 6th Annual Conference for Network 	Science","place":"U Chicago 		Booth"}]
 	"slides":"/assets/others/rak_xing_zhu.pdf"},
 	{
 		"work_type": "Equity holding network",
@@ -136,7 +137,7 @@
 	{
 		"work_type": "Equity holding network",
 		"id": 7,
-		"title": "Government Ownership in China, and Externalities in the Production Networks",
+		"title": "State-Owned-Enterprises in China Revisited",
 		"year": 2020, 
 		"authors": [
 			{
@@ -144,9 +145,6 @@
 			},
 			{
 				"name":"Xian Gu"
-			},
-			{
-				"name":"QJ Jun Qian"
 			},
 			{
 				"name":"Linda Zhao"
@@ -157,6 +155,27 @@
 		],
 		"citation_url": " ",
 		"abstract": " "
+	},
+	{
+		"work_type": "Machine learning",
+		"id": 8,
+		"title": "Semi-Supervised Learning in Network Data",
+		"year": 2020, 
+		"authors": [
+			{
+				"name": "Junhui Cai"
+			},
+			{
+				"name":"Dan Yang"
+			},
+			{
+				"name":"Linda Zhao"
+			},
+			{
+				"name":"Wu Zhu"
+			}		],
+		"citation_url": " ",
+		"abstract": ""
 	},
 	{
 		"work_type": "Machine learning",
