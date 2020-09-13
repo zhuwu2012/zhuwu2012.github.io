@@ -26,7 +26,9 @@
 		],
 		"status": "Finalist of best paper in investment (FMA 2020).",
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512490",
-		"abstract": "This paper provides evidence that network complexity limits investors' ability to process non-local information, through the lens of return cross predictability. Using firm-to-firm citation networks, we find that the non-local indirectly-linked firms can well predict the return of the focal firm, while the predictability of the local directly-linked firms is weak. A long-short strategy using the indirect links yields a risk-adjusted monthly alpha of 198 (164) basis points with equal (value) weights. We further find that: (i) the indirect citation links are much more complex than direct ones; (ii) the magnitude of cross predictability increases with the degree of link complexity; (iii) institutional investors don't adjust their positions in a stock with complex links, but in one with simple links immediately; (iv) firms with more complex links receive more public attention, are much larger in size, and exhibit less idiosyncratic volatility than those with simple links; (v) there is little role of the usual proxies for limited investor attention and arbitrage cost in explaining our anomalies, once controlling for the linking complexity; (vi) there are no differences in expected returns of stocks with various link complexity."
+		"abstract": "This paper provides evidence that network complexity limits investors' ability to process non-local information, through the lens of return cross predictability. Using firm-to-firm citation networks, we find that the non-local indirectly-linked firms can well predict the return of the focal firm, while the predictability of the local directly-linked firms is weak. A long-short strategy using the indirect links yields a risk-adjusted monthly alpha of 198 (164) basis points with equal (value) weights. We further find that: (i) the indirect citation links are much more complex than direct ones; (ii) the magnitude of cross predictability increases with the degree of link complexity; (iii) institutional investors don't adjust their positions in a stock with complex links, but in one with simple links immediately; (iv) firms with more complex links receive more public attention, are much larger in size, and exhibit less idiosyncratic volatility than those with simple links; (v) there is little role of the usual proxies for limited investor attention and arbitrage cost in explaining our anomalies, once controlling for the linking complexity; (vi) there are no differences in expected returns of stocks with various link complexity.",
+		"talks":[{"time":"2020-10-06","meeting":"FMA 2020","place":"New York"},
+				{"time":"2020-03-27","meeting":"NSF 6th Annual Conference for Network Science Chicago Booth","place":"U Chicago Booth"}]	
 	},
 	{
 		"work_type": "Equity holding network",
@@ -96,7 +98,11 @@
 			}
 		],
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465126",
-		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth."
+		"abstract": "The finance-growth nexus has been a central question in interpreting the unprecedented success of Chinese economy. This paper employs an equity ownership network, reflecting the firm-to-firm equity investment relationship, of all the registered firms in China and shows that the network has been expanding rapidly since 2000s, with five million firms being in network by 2017. We find that entering the network and increase in network centrality, both globally and locally, are associated with higher future firm growth. Such effect of network position tends to be more pronounced for high productivity firms and non-state-owned enterprises (non-SOEs). The massive Stimulus Plan, launched by Chinese government in November 2008, crowds out the effect of equity capital. Taken together, our analysis suggests that equity ownership network and bank credit tend to act as substitutes for SOEs, while as complements for non-SOEs in promoting growth.",
+		"talks":[{"time":"2021-01-06","meeting":"AFA 2021","place":"Chicago"},
+				{"time":"2020-12-06","meeting":"NBER Chinese Economy Meeting","place":"Virtual"},
+				{"time":"2020-08-06","meeting":"MFA 2020","place":"Chicago"},{"time":"2020-10-06","meeting":"FMA 2020","place":"New York"},
+				{"time":"2020-03-21","meeting":"NSF 6th Annual Conference for Network Science","place":"Chicago"}]
 	},
 	{
 		"work_type": "Innovation network",
@@ -124,7 +130,8 @@
 			}
 		],
 		"citation_url": " ",
-		"abstract": "This paper examine the impact of ownership network on innovation"
+		"abstract": "This paper examine the impact of ownership network on innovation",
+		"talks":[{"time":"2019-07-06","meeting":"Wharton-PKU-GSM-Conference","place":"Beijing"}]
 	},
 	{
 		"work_type": "Equity holding network",
