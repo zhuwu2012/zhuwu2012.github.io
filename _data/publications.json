@@ -28,7 +28,8 @@
 		"citation_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512490",
 		"abstract": "This paper provides evidence that network complexity limits investors' ability to process non-local information, through the lens of return cross predictability. Using firm-to-firm citation networks, we find that the non-local indirectly-linked firms can well predict the return of the focal firm, while the predictability of the local directly-linked firms is weak. A long-short strategy using the indirect links yields a risk-adjusted monthly alpha of 198 (164) basis points with equal (value) weights. We further find that: (i) the indirect citation links are much more complex than direct ones; (ii) the magnitude of cross predictability increases with the degree of link complexity; (iii) institutional investors don't adjust their positions in a stock with complex links, but in one with simple links immediately; (iv) firms with more complex links receive more public attention, are much larger in size, and exhibit less idiosyncratic volatility than those with simple links; (v) there is little role of the usual proxies for limited investor attention and arbitrage cost in explaining our anomalies, once controlling for the linking complexity; (vi) there are no differences in expected returns of stocks with various link complexity.",
 		"talks":[{"time":"2020-10-06","meeting":"FMA 2020","place":"New York"},
-				{"time":"2020-03-27","meeting":"NSF 6th Annual Conference for Network Science Chicago Booth","place":"U Chicago Booth"}]	
+				{"time":"2020-03-27","meeting":"NSF 6th Annual Conference for Network Science Chicago Booth","place":"U Chicago Booth"}],
+		"code": "/assets/others/code.zip"
 	},
 	{
 		"work_type": "Equity holding network",

@@ -101,6 +101,11 @@ nav_order: 2
               Slides
             </a>]
           {% endif %}
+          {% if paper.code %}
+            [<a href="{{ paper.code }}">
+              Code
+            </a>]
+          {% endif %}
         </h5>
         <div class="collapse" id="collapseAbstract{{ paper.id }}">
           <div class="container">
