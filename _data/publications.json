@@ -162,7 +162,8 @@
 				"name":"Wu Zhu"
 			}		],
 		"citation_url": " ",
-		"abstract": ""
+		"abstract": "",
+		"talks":[{"time":"2021-08-07","meeting":"JSM 2021 (American Statistical Association)","place":"Seattle"}],
 	},
 	{
 		"work_type": "Machine learning",
