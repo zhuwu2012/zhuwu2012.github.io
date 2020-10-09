@@ -110,7 +110,7 @@
 	{
 		"work_type": "Innovation network",
 		"id": 6,
-		"title": "Innovation Network Marries Production Network,Long-Run Risk, and Asset Pricing",
+		"title": "Networks,Long-Run Risk,and Asset Pricing",
 		"year": 2020, 
 		"authors": [
 			{
@@ -163,7 +163,7 @@
 			}		],
 		"citation_url": " ",
 		"abstract": "",
-		"talks":[{"time":"2021-08-07","meeting":"JSM 2021 (American Statistical Association)","place":"Seattle"}],
+		"talks":[{"time":"2021-08-07","meeting":"JSM 2021(American Statistical Association)","place":"Seattle"}],
 	},
 	{
 		"work_type": "Machine learning",
