@@ -18,7 +18,9 @@ Theoretically, we develop a dynamic general equilibrium incorporating two networ
 The amplification can be fully captured by two sufficient statistics - the correlation between the centrality in innovation network and shocks, and the correlation between centralities in innovation and production networks. The slow recovery occurs when the amplification on the persistent component increases sharply.<br><br>
 To evaluate the importance of the channel, we construct a new and comprehensive patent dataset of U.S back to 1911 – patent issuance, transaction, and citation, and the production network back to 1950. We first document a set of new stylized facts in U.S. First, the innovation network is very stable and takes a low rank structure; Second, the structure of the innovation network is special such that the effect of the shock becomes very persistent and significantly amplified when sectors in the center of the innovation network are severely hit. Finally, there is a large variation in the sectors’ exposure to adversarial shocks across recessions in U.S. 
 "
-	,"slides":"/assets/others/Job-Market-Talk.pdf"},
+	,"slides":"/assets/others/Job-Market-Talk.pdf",
+	"code":"/assets/others/jmp-code.zip"
+	},
 	{
 		"work_type": "Innovation network",
 		"id": 2,
