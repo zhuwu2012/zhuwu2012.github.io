@@ -91,6 +91,11 @@ nav_order: 2
               SSRN
             </a>]
           {% endif %}
+          {% if paper.latest %}
+            [<a href="{{ paper.latest }}">
+              Latest version
+            </a>]
+          {% endif %}
           {% if paper.journal_url %}
             [<a href="{{ paper.journal_url }}">
               Published version
