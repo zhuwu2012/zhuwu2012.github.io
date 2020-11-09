@@ -16,7 +16,7 @@ permalink: /
 				Welcome to my homepage! 
 			</p>
 			<p class="text-justify">
-				I am a fifth-year Ph.D Student in Economics at the University of Pennsylvania and will be available for interviews at the 2020/2021 job market. My research spans several fields: <b>Macroeconomics, Finance, Machine Learning, Network Theory, and the Chinese Economy</b>. However, it shares a common theme: the use of big data to understand the role of networks in investor behavior, firm decision making, asset pricing, the business cycle, and systemic risk.
+				I am a fifth-year Ph.D Student in Economics at the University of Pennsylvania and will be available for interviews at the 2020/2021 job market. My research spans several fields: <b> Network Economics,Macroeconomics, Finance, Machine Learning, and the Chinese Economy</b>. However, it shares a common theme: the use of big data to understand the role of networks in investor behavior, firm decision making, asset pricing, the business cycle, and systemic risk.
 		</p>
 			<p class="text-justify">
 		Under this theme, my work can be divided into three branches: <br> <b> i)</b>  Innovation network and its implication on business cycle, asset pricing, and investment;  <br> <b>ii)</b> Equity-holding network and its implication on corporate finance, governance, and monetary policy; <br> <b>iii)</b> Machine learning in networks.</p>
