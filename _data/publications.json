@@ -189,7 +189,7 @@
 			}
 		],
 		"citation_url": " ",
-		"abstract": "In reality, firms are usually linked through various relationship – customer-suppliers, geographical overlapping, technology flow, equity-holding, business overlapping etc. There are two things worth mentioning. First, the links usually dynamically change. Second, the links are usually partially observable either due to the high collection cost or sizable measurement errors. In this paper, we model the latent networks as state variable which evolves over time, each period the state variables will be updated based on its value of the last periods, the latest partially observable counterparts, and the stock returns. We incorporate this process into a Reinforcement Learning with super high dimension of state variables, and significant boost the cross-predictability."
+		"abstract": "In reality, firms are usually linked through various relationship – customer-suppliers, geographical overlapping, technology flow, equity-holding, business overlapping etc. There are two things worth mentioning. First, the links usually dynamically change. Second, the links are usually partially observable either due to the high collection cost or sizable measurement errors. In this paper, we model the latent networks as state variable which evolves over time, each period the state variables will be updated based on its value of the last periods, the latest partially observable counterparts, and the stock returns. We incorporate this process into a Reinforcement Learning with super high dimension of state variables, and significant boost the cross-predictability.",
 	},
 	{
 		"work_type": "Machine learning",
