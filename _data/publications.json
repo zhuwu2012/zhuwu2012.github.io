@@ -160,33 +160,36 @@
 				"name":"Dan Yang"
 			},
 			{
+				"name":"HaiPeng Shen"
+			},
+			{
 				"name":"Linda Zhao"
 			},
 			{
 				"name":"Wu Zhu"
 			}		],
 		"citation_url": " ",
-		"abstract": "",
+		"abstract": "Directed networks are ubiquitous in our lives and play a crucial role in information trans- mission. The network position, usually captured by centrality, affects individual’s decision making and thus provides information for inference and prediction. In many cases, network data is costly to collect and has insurmountable measure errors, which will compromise the centrality estimation and consequently the prediction. We propose a supervised network centrality estimation and prediction (SuperCENT) model that in- corporates centrality in the outcome regression model. The proposed method provides a superior estimate of centrality but also superior estimation and prediction in the outcome regression. Furthermore, the asymptotic properties for both centrality and parameters of interest are derived, followed by their confidence intervals. The model is also endowed with prominent economic implications as in numerous empirical network literature. We illustrate our method via a real data example of inferring the performance of Chinese firms with a complete equity holding network.",
 		"talks":[{"time":"2021-08-07","meeting":"JSM 2021(American Statistical Association)","place":"Seattle"}],
 	},
 	{
 		"work_type": "Machine learning",
 		"id": 8,
-		"title": "Information Dispersion, Acquisition, and Cross-Predictability",
+		"title": "Deep Learning in Dynamic Networks and Forecasting",
 		"year": 2020, 
 		"authors": [
 			{
-				"name": "Wayne Gao"
+				"name": "Junhui Cai"
 			},
 			{
-				"name":"Rakesh Vohra"
+				"name":"Linda Zhao"
 			},
 			{
 				"name":"Wu Zhu"
 			}
 		],
 		"citation_url": " ",
-		"abstract": ""
+		"abstract": "In reality, firms are usually linked through various relationship – customer-suppliers, geographical overlapping, technology flow, equity-holding, business overlapping etc. There are two things worth mentioning. First, the links usually dynamically change. Second, the links are usually partially observable either due to the high collection cost or sizable measurement errors. In this paper, we model the latent networks as state variable which evolves over time, each period the state variables will be updated based on its value of the last periods, the latest partially observable counterparts, and the stock returns. We incorporate this process into a Reinforcement Learning with super high dimension of state variables, and significant boost the cross-predictability."
 	},
 	{
 		"work_type": "Machine learning",
