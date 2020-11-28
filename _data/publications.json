@@ -137,6 +137,10 @@
 				"name":"Xian Gu"
 			},
 			{
+				"name":"QJ Qian"
+			}
+			,
+			{
 				"name":"Linda Zhao"
 			},
 			{
@@ -145,7 +149,8 @@
 		],
 		"citation_url": " ",
 		"abstract": "In this paper, we revisit the state sector and its role in Chinese economy. We propose a revised measure of Chinese SOEs (and partial SOEs) based on the firm-to-firm equity investment relationships. We are the first to identify all SOEs among over 40 millions of all Chinese registered firms. Our revised measure captures a significant larger number of SOEs than the existing measure. The aggregated capital of all (partial) SOEs has climbed up to 85%, and the total state capital in all SOEs has increased to 31%, both over total capital in the economy by 2017. The state ownership  shows parallel trends of decentralization (authoritarian hierarchy) and indirect control (ownership hierarchy) over time. Using the revised measure, we find mixed ownership is associated with higher firm growth and performance; while hierarchical distance to governments is associated with better firm performance but lower growth. Drawing a stark distinction between SOEs and privately-owned enterprises (POEs) could lead to misperceptions of the role of state ownership in Chinese",
-		"slides":"/assets/others/Slides_SOE_in_China.pdf"
+		"slides":"",
+		"latest":"/assets/others/SOEs in China revisted_full draft_cleaned_20200828_v2.pdf",
 	},
 	{
 		"work_type": "Machine learning",
